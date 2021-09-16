@@ -24,7 +24,7 @@ function buildTable(data) {
         }
       );
     });
-  }
+}
 
 
 // Build the Filtered Table
